@@ -4,3 +4,5 @@
 
 GAN 강좌 수강으로 인하여 딜레이되어 TensorFlow_Developer_Certificate 자격 시험 시작 (24.01.05 금)
 
+자격 취득 (2024.01.05 ~2027.01.05)
+
